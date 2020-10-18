@@ -1,6 +1,6 @@
 package cn.hugeterry.coordinatortablayout.listener;
 
-import android.support.design.widget.TabLayout;
+import com.google.android.material.tabs.TabLayout;
 import android.widget.ImageView;
 
 /**
