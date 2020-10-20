@@ -50,9 +50,9 @@ public class MainFragment extends Fragment {
 
     private void initData() {
         mDatas = new ArrayList<>();
-        for (int i = 'A'; i < 'z'; i++) {
-            mDatas.add(mTitle + (char) i);
-        }
+//        for (int i = 'A'; i < 'z'; i++)
+        for (int i = 1; i <= 10; i++)
+            mDatas.add(mTitle + " " + i);
     }
 
 }

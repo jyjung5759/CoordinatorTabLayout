@@ -29,5 +29,6 @@ dependencies {
     testImplementation 'junit:junit:4.13.1'
 
     implementation project(':coordinatortablayout')
+//    implementation 'cn.hugeterry.coordinatortablayout:coordinatortablayout:1.2.2'
     implementation 'com.github.bumptech.glide:glide:4.11.0'
 }
